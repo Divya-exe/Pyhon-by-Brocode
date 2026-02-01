@@ -37,3 +37,9 @@
 37. list comperehension
 38. match - case statements
 39. modules
+40. scope resolution
+41. if name == 'Main'
+42. banking program
+43. slot machine
+44. encryption and decryption program
+45. hangman Game --->pending...
