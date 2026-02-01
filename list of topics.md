@@ -43,3 +43,8 @@
 43. slot machine
 44. encryption and decryption program
 45. hangman Game --->pending...
+46. object and class
+47. class varibles
+48. inheritance
+49. multiple inheritance
+50. super() ---> pending...

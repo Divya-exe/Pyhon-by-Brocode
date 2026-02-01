@@ -13,6 +13,7 @@ class Prey(Animal):
 class Predator(Animal):
     def hunt(self):
         print("This animal is hunting")
+        
 
 class Rabbit(Prey):
     pass
