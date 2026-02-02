@@ -48,3 +48,6 @@
 48. inheritance
 49. multiple inheritance
 50. super() 
+51. polymorphism
+52. duck typing
+53. static method
