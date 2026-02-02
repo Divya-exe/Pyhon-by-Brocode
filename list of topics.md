@@ -47,4 +47,4 @@
 47. class varibles
 48. inheritance
 49. multiple inheritance
-50. super() ---> pending...
+50. super() 
