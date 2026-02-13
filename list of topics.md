@@ -53,3 +53,4 @@
 53. static method
 54. class method
 55. magic method
+56. property
