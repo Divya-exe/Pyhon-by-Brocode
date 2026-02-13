@@ -52,3 +52,4 @@
 52. duck typing
 53. static method
 54. class method
+55. magic method
