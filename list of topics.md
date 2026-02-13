@@ -54,3 +54,4 @@
 54. class method
 55. magic method
 56. property
+57. decorator
