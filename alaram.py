@@ -5,7 +5,7 @@ import pygame
 
 def set_alaram(alarm_time):
     print(f"Alaram set for {alarm_time}")
-    sound_file="doja cate.mp3"
+    # sound_file="doja cate.mp3"
     is_running = True
     while is_running:
         current_time= datetime.datetime.now().strftime("%H:%M:%S")
@@ -14,12 +14,12 @@ def set_alaram(alarm_time):
         if current_time == alarm_time:
             print("wake up!")
             
-            pygame.mixer.init()
-            pygame.mixer.music.load(sound_file)
-            pygame.mixer.music.play()
+            # pygame.mixer.init()
+            # pygame.mixer.music.load(sound_file)
+            # pygame.mixer.music.play()
             
-            while pygame.mixer.music.get_busy():
-                time.sleep(1)17:52:00
+            # while pygame.mixer.music.get_busy():
+            #     time.sleep(1)
             
             is_running= False
         
