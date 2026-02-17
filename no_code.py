@@ -50,9 +50,9 @@ iris = load_iris()
 X = iris.data
 y = (iris.target == 0).astype(int)  # 1 for Setosa, 0 for non-Setosa
 
-# scaler = MinMaxScaler()
-# X = scaler.fit_transform(X)
-# X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+scaler = MinMaxScaler()
+X = scaler.fit_transform(X)
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
-# perceptron = Perceptron(input_size=4)
-# perceptron.fit(X_train, y_train)
+perceptron = Perceptron(input_size=4)
+perceptron.fit(X_train, y_train)
