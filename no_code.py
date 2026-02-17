@@ -41,14 +41,14 @@ class Perceptron:
 
             acc = correct / len(labels)
             print(f"Epoch {epoch} | Accuracy: {acc:.2%} | Loss: {epoch_loss:.4f}")
-# from sklearn.datasets import load_iris
-# from sklearn.model_selection import train_test_split
-# from sklearn.preprocessing import MinMaxScaler
+from sklearn.datasets import load_iris
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import MinMaxScaler
 
-# iris = load_iris()
+iris = load_iris()
 
-# X = iris.data
-# y = (iris.target == 0).astype(int)  # 1 for Setosa, 0 for non-Setosa
+X = iris.data
+y = (iris.target == 0).astype(int)  # 1 for Setosa, 0 for non-Setosa
 
 # scaler = MinMaxScaler()
 # X = scaler.fit_transform(X)
