@@ -61,5 +61,5 @@
 61. python reading files
 62. date_&_time
 63. alaram clock
-64. doing nothing for today
-65. doing nothing for today
+64. multithreading
+65. api requste
