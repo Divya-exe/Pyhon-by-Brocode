@@ -65,3 +65,4 @@
 65. api requstes
 66. PyQt5 GUI intro
 67. PyQt5 labels
+68. PyQt5 Images
