@@ -69,3 +69,4 @@
 69. PyQt5 layout managers
 70. PyQt5 buttons
 71. PyQt5 checkbox
+72. Pyqt5 RadioButton
