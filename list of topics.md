@@ -67,3 +67,5 @@
 67. PyQt5 labels
 68. PyQt5 Images
 69. PyQt5 layout managers
+70. PyQt5 buttons
+71. PyQt5 checkbox
