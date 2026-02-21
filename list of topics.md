@@ -62,4 +62,5 @@
 62. date_&_time
 63. alaram clock
 64. multithreading
-65. api requste
+65. api requstes
+66. PyQt5 GUI intro
