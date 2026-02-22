@@ -70,3 +70,4 @@
 70. PyQt5 buttons
 71. PyQt5 checkbox
 72. Pyqt5 RadioButton
+73. PyQt5 input
