@@ -33,8 +33,7 @@ class MainWindow(QMainWindow):
         self.setStyleSheet("QRadioButton{"
                            "font-size: 25px;"
                            "font-family: Arial;"
-                           "padding: 10px; "
-                           "}")
+                           "padding: 10px; ""}")
         self.button.setStyleSheet("font-size: 25px;"
                                      "font-family: Arial;" )
         
@@ -59,10 +58,6 @@ class MainWindow(QMainWindow):
         print(f"your Email is: {email}")
         print(f"your Current password is: {psw}")
         
-        
-        
-    
-
 def main():
     app = QApplication(sys.argv)
     window = MainWindow()
