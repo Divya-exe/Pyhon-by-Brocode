@@ -21,7 +21,8 @@ class Student:
             return 0
         return f"Average GPA: {cls.total_gpa / cls.count:.2f}"
 
-
+ 
+ 
 # objects OUTSIDE class
 student1 = Student("SpongeBob", 3.2)
 student2 = Student("Patrick", 2.0)
