@@ -11,6 +11,7 @@ class MainWindow(QMainWindow):
         central_widget = QWidget()
         self.setCentralWidget(central_widget)
         
+        
         label1 = QLabel("#1", self)
         label2 = QLabel("#2", self) 
         label3 = QLabel("#3", self)
