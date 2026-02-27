@@ -72,3 +72,4 @@
 72. Pyqt5 RadioButton
 73. PyQt5 input
 74. PyQt5 css
+75. digital clock program
