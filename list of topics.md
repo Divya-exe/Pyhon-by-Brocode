@@ -73,3 +73,4 @@
 73. PyQt5 input
 74. PyQt5 css
 75. digital clock program
+76. stop watch program
