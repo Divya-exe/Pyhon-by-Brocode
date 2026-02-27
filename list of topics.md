@@ -75,3 +75,5 @@
 75. digital clock program
 76. stop watch program
 77. weather API APP
+
+finally complete python basic course of 12 hours and created weather app in last
