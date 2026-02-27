@@ -74,3 +74,4 @@
 74. PyQt5 css
 75. digital clock program
 76. stop watch program
+77. weather API APP
